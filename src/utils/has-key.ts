@@ -1,4 +1,4 @@
-import {Rates} from '../lib/options';
+import {Rates} from '../lib/options.ts';
 
 /**
  * Check if an object contains a key.

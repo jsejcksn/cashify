@@ -1,6 +1,6 @@
-import {Options} from './lib/options';
-import convert from './convert';
-import parse from './utils/parser';
+import {Options} from './lib/options.ts';
+import convert from './convert.ts';
+import parse from './utils/parser.ts';
 
 export default class Cashify {
 	/**

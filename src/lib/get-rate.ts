@@ -1,5 +1,5 @@
-import hasKey from '../utils/has-key';
-import {Rates} from './options';
+import hasKey from '../utils/has-key.ts';
+import {Rates} from './options.ts';
 
 /**
  * Get the conversion rate.

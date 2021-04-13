@@ -1,6 +1,6 @@
-import getRate from './lib/get-rate';
-import {Options} from './lib/options';
-import parse from './utils/parser';
+import getRate from './lib/get-rate.ts';
+import {Options} from './lib/options.ts';
+import parse from './utils/parser.ts';
 
 /**
  * Function, which converts currencies based on provided rates.
