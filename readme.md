@@ -1,5 +1,23 @@
 # Cashify 💸
 
+> Ported to Deno from [xxczaki/cashify](https://github.com/xxczaki/cashify)
+
+Besides importing:
+
+```ts
+import { Cashify, convert, parse } from "https://deno.land/x/cashify/mod.ts";
+```
+
+and testing:
+
+```sh
+deno test
+```
+
+the rest of the API should be the same as described below in the original README:
+
+---
+
 > Lightweight currency conversion library, successor of money.js
 
 [![Build Status](https://travis-ci.org/xxczaki/cashify.svg?branch=master)](https://travis-ci.org/xxczaki/cashify)
